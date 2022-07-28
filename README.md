@@ -1,2 +1,2 @@
 # JavaSlider
-a small project showing a slider created using JavaScript HTML and CSS
+a small project showing a menu slider created using JavaScript HTML and CSS
